@@ -53,3 +53,6 @@ Subbab: Access properties
 
 Subbab: Member functions
 <img width="1912" height="1075" alt="image" src="https://github.com/user-attachments/assets/960a25ae-f5b4-46e4-af73-7c60573b72f5" />
+
+Subbab: Data classes
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6dd477e7-1a4d-4020-97af-819fa953b0a4" />
