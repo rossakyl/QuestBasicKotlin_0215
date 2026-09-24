@@ -11,3 +11,6 @@ subbab: TIPE DATA DASAR
 
 Subbab: List
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6e952fc1-7ee2-4fda-82a5-536cefe0fae7" />
+
+Subbab: Set
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4894b96c-7e6d-43da-878a-d693cedd9928" />
