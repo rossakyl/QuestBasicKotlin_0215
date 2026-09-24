@@ -47,3 +47,6 @@ Subbab: Properties
 
 Subbab: Create instance
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/96728f27-64de-4b10-951a-5c4982887298" />
+
+Subbab: Access properties
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9110b20f-291b-41e9-87fb-4be5ef08dd4b" />
