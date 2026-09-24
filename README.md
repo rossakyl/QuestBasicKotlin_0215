@@ -8,3 +8,6 @@ subbab: String templates
 
 subbab: TIPE DATA DASAR
 <img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/af661cbc-7f22-4816-b924-7e1b55f9827b" />
+
+Subbab: List
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6e952fc1-7ee2-4fda-82a5-536cefe0fae7" />
