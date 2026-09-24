@@ -56,3 +56,6 @@ Subbab: Member functions
 
 Subbab: Data classes
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6dd477e7-1a4d-4020-97af-819fa953b0a4" />
+
+Subbab: Compare instances
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f488b86b-4115-49e4-b01f-7760e375c4c9" />
