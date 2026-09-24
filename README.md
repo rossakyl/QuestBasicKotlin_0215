@@ -29,3 +29,6 @@ Subbab: Functions
 
 Subbab: Named arguments
 <img width="1915" height="1075" alt="image" src="https://github.com/user-attachments/assets/5028cf5f-2a02-4c6e-baec-4b9823555481" />
+
+Subbab: Default parameter values
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/7c944659-8d7f-415f-89dc-9d4146442127" />
