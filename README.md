@@ -71,3 +71,6 @@ Subbab: Check for null values
 
 Subbab: Use safe calls
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f23f5bc9-5a37-4f92-81db-f8457f691c2b" />
+
+Subbab: Use Elvis operator
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/058d73c6-3100-46d2-b293-17b19c13e5f2" />
