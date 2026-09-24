@@ -38,3 +38,6 @@ Subbab: Functions without return
 
 Subbab: Lambda expressions
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/0e46f2a9-7f6d-48da-b6d9-a2d9ae26ced8" />
+
+Subbab: Class
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/b66d6f93-cd22-47b6-b830-674522872a4c" />
