@@ -50,3 +50,6 @@ Subbab: Create instance
 
 Subbab: Access properties
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9110b20f-291b-41e9-87fb-4be5ef08dd4b" />
+
+Subbab: Member functions
+<img width="1912" height="1075" alt="image" src="https://github.com/user-attachments/assets/960a25ae-f5b4-46e4-af73-7c60573b72f5" />
