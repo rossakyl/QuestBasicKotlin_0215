@@ -14,3 +14,6 @@ Subbab: List
 
 Subbab: Set
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4894b96c-7e6d-43da-878a-d693cedd9928" />
+
+Subbab: Map
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/ccc8d787-71c2-4e47-bdaa-a56186e32868" />
