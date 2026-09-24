@@ -65,3 +65,6 @@ Subbab: Copy instance
 
 Subbab: Nullable types
 <img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/f6f9df21-5016-4b40-a5fb-4b5609221d4c" />
+
+Subbab: Check for null values
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/25ba2afc-14f1-4ed3-9f42-79fa351d1370" />
