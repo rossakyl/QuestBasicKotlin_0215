@@ -20,3 +20,6 @@ Subbab: Map
 
 Subbab: Conditional expressions
 <img width="1917" height="1066" alt="image" src="https://github.com/user-attachments/assets/3455ee69-c2ec-4faa-8784-a5a9042aeb74" />
+
+Subbab: Loops
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/66879a30-cd84-401a-aa24-b60888173d33" />
