@@ -62,3 +62,6 @@ Subbab: Compare instances
 
 Subbab: Copy instance
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/02f54baa-7a3e-4cab-9b3f-958da98beebd" />
+
+Subbab: Nullable types
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/f6f9df21-5016-4b40-a5fb-4b5609221d4c" />
