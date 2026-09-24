@@ -59,3 +59,6 @@ Subbab: Data classes
 
 Subbab: Compare instances
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f488b86b-4115-49e4-b01f-7760e375c4c9" />
+
+Subbab: Copy instance
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/02f54baa-7a3e-4cab-9b3f-958da98beebd" />
