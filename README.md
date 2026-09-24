@@ -41,3 +41,6 @@ Subbab: Lambda expressions
 
 Subbab: Class
 <img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/b66d6f93-cd22-47b6-b830-674522872a4c" />
+
+Subbab: Properties
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/dcc62bfe-4226-41af-9d0c-06f4133762da" />
