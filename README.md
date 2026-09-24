@@ -32,3 +32,6 @@ Subbab: Named arguments
 
 Subbab: Default parameter values
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/7c944659-8d7f-415f-89dc-9d4146442127" />
+
+Subbab: Functions without return
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/3e8f1932-9161-4591-8b21-10bf3f237cc4" />
