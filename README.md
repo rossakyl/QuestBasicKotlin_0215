@@ -68,3 +68,6 @@ Subbab: Nullable types
 
 Subbab: Check for null values
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/25ba2afc-14f1-4ed3-9f42-79fa351d1370" />
+
+Subbab: Use safe calls
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f23f5bc9-5a37-4f92-81db-f8457f691c2b" />
