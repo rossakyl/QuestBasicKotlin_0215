@@ -44,3 +44,6 @@ Subbab: Class
 
 Subbab: Properties
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/dcc62bfe-4226-41af-9d0c-06f4133762da" />
+
+Subbab: Create instance
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/96728f27-64de-4b10-951a-5c4982887298" />
