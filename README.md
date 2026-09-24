@@ -23,3 +23,6 @@ Subbab: Conditional expressions
 
 Subbab: Loops
 <img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/66879a30-cd84-401a-aa24-b60888173d33" />
+
+Subbab: Functions
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/234e17ba-ecc3-4090-8029-0b64ebf14e6b" />
