@@ -17,3 +17,6 @@ Subbab: Set
 
 Subbab: Map
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/ccc8d787-71c2-4e47-bdaa-a56186e32868" />
+
+Subbab: Conditional expressions
+<img width="1917" height="1066" alt="image" src="https://github.com/user-attachments/assets/3455ee69-c2ec-4faa-8784-a5a9042aeb74" />
