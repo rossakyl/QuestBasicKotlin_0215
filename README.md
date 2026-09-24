@@ -35,3 +35,6 @@ Subbab: Default parameter values
 
 Subbab: Functions without return
 <img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/3e8f1932-9161-4591-8b21-10bf3f237cc4" />
+
+Subbab: Lambda expressions
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/0e46f2a9-7f6d-48da-b6d9-a2d9ae26ced8" />
